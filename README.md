@@ -1,17 +1,17 @@
 # Portafolio
-1.-Ml-proyects Beg
-This folder contains the following projects
-  - Auto_mpg
-  -BigMart Sales
-  -Boston Housing
-  -Heights and Weights
-  -Iris
-  -Loan Prediction Problem
-  -Titanic
-  -Turkiye Student Evaluation
-  -Wine Quality
- 2.-Ml-proyects Int
+1.-Ml-proyects Beg <br>
+This folder contains the following projects<br>
+  - Auto_mpg<br>
+  -BigMart Sales<br>
+  -Boston Housing<br>
+  -Heights and Weights<br>
+  -Iris<br>
+  -Loan Prediction Problem<br>
+  -Titanic<br>
+  -Turkiye Student Evaluation<br>
+  -Wine Quality<br>
+ 2.-Ml-proyects Int<br>
  
- 3.-Unlock-Face proyect 
+ 3.-Unlock-Face proyect <br>
  
  
